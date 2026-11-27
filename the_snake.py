@@ -198,7 +198,6 @@ def main():
             pygame.display.update()
             continue
 
-
         apple.draw()
         snake.draw()
         pygame.display.update()
